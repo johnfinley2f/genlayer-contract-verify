@@ -1,0 +1,180 @@
+%PDF-1.4
+% generated submission packet
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1719 >>
+stream
+0.94 0.95 0.91 rg 0 0 612 792 re f
+0.10 0.14 0.22 rg 0 650 612 142 re f
+0.77 0.90 0.24 rg BT /F1 10 Tf 46 744 Td (GENLAYER / BUILDER SUBMISSION) Tj ET
+0.94 0.95 0.91 rg BT /F1 34 Tf 46 690 Td (Contract Verify) Tj ET
+0.72 0.76 0.82 rg BT /F1 12 Tf 46 664 Td (A wallet-aware preflight desk for Intelligent Contracts.) Tj ET
+0.83 0.37 0.29 rg BT /F1 9 Tf 46 604 Td (PROJECT BRIEF) Tj ET
+0.10 0.14 0.22 rg BT /F1 26 Tf 46 570 Td (Know before you call.) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 538 Td (GenLayer Contract Verify helps builders validate an EVM contract) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 518 Td (address, confirm wallet context, and understand the interaction path) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 498 Td (before connecting a real transaction flow.) Tj ET
+0.77 0.90 0.24 rg 46 395 248 64 re f
+0.10 0.14 0.22 rg BT /F1 10 Tf 62 430 Td (READ-ONLY PREFLIGHT) Tj ET
+0.10 0.14 0.22 rg BT /F1 14 Tf 62 407 Td (Address + chain + bytecode) Tj ET
+0.10 0.14 0.22 rg 318 395 248 64 re f
+0.77 0.90 0.24 rg BT /F1 10 Tf 334 430 Td (SIMULATED LIFECYCLE) Tj ET
+0.94 0.95 0.91 rg BT /F1 14 Tf 334 407 Td (Prepare -> consensus -> complete) Tj ET
+0.83 0.37 0.29 rg BT /F1 9 Tf 46 330 Td (WHY IT IS SAFE) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 300 Td (The demo button never calls eth_sendTransaction, never requests a) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 280 Td (signature, and never moves funds. Only the optional eth_getCode) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 260 Td (probe reads from the connected provider.) Tj ET
+0.72 0.74 0.70 RG 1 w 46 118 m 566 118 l S
+0.35 0.39 0.45 rg BT /F1 9 Tf 46 88 Td (GenLayer Contract Verify) Tj ET
+0.35 0.39 0.45 rg BT /F1 9 Tf 440 88 Td (Submission packet / 01) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2285 >>
+stream
+0.94 0.95 0.91 rg 0 0 612 792 re f
+0.83 0.37 0.29 rg BT /F1 10 Tf 46 742 Td (01 / PRODUCT FLOW) Tj ET
+0.10 0.14 0.22 rg BT /F1 25 Tf 46 700 Td (One clear path from wallet to confidence.) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 665 Td (The interface keeps network context and transaction state visible) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 646 Td (without pretending a local demo is blockchain finality.) Tj ET
+0.77 0.90 0.24 rg 46 562 34 34 re f
+0.10 0.14 0.22 rg BT /F1 10 Tf 56 574 Td (01) Tj ET
+0.10 0.14 0.22 rg BT /F1 14 Tf 100 580 Td (Connect wallet) Tj ET
+0.35 0.39 0.45 rg BT /F1 10 Tf 100 560 Td (Read the active account and chain ID from an injected EVM wallet.) Tj ET
+0.82 0.83 0.79 RG 1 w 100 540 m 566 540 l S
+0.77 0.90 0.24 rg 46 478 34 34 re f
+0.10 0.14 0.22 rg BT /F1 10 Tf 56 490 Td (02) Tj ET
+0.10 0.14 0.22 rg BT /F1 14 Tf 100 496 Td (Select environment) Tj ET
+0.35 0.39 0.45 rg BT /F1 10 Tf 100 476 Td (Choose Bradbury Testnet, Asimov Mainnet, or Local Studio.) Tj ET
+0.82 0.83 0.79 RG 1 w 100 456 m 566 456 l S
+0.77 0.90 0.24 rg 46 394 34 34 re f
+0.10 0.14 0.22 rg BT /F1 10 Tf 56 406 Td (03) Tj ET
+0.10 0.14 0.22 rg BT /F1 14 Tf 100 412 Td (Set contract target) Tj ET
+0.35 0.39 0.45 rg BT /F1 10 Tf 100 392 Td (Validate the 20-byte EVM address before any provider call.) Tj ET
+0.82 0.83 0.79 RG 1 w 100 372 m 566 372 l S
+0.77 0.90 0.24 rg 46 310 34 34 re f
+0.10 0.14 0.22 rg BT /F1 10 Tf 56 322 Td (04) Tj ET
+0.10 0.14 0.22 rg BT /F1 14 Tf 100 328 Td (Run preflight) Tj ET
+0.35 0.39 0.45 rg BT /F1 10 Tf 100 308 Td (Probe bytecode with eth_getCode when the wallet chain matches.) Tj ET
+0.82 0.83 0.79 RG 1 w 100 288 m 566 288 l S
+0.77 0.90 0.24 rg 46 226 34 34 re f
+0.10 0.14 0.22 rg BT /F1 10 Tf 56 238 Td (05) Tj ET
+0.10 0.14 0.22 rg BT /F1 14 Tf 100 244 Td (Simulate lifecycle) Tj ET
+0.35 0.39 0.45 rg BT /F1 10 Tf 100 224 Td (Walk through Prepare, Simulate, Consensus, and Complete locally.) Tj ET
+0.82 0.83 0.79 RG 1 w 100 204 m 566 204 l S
+0.10 0.14 0.22 rg 46 72 520 66 re f
+0.77 0.90 0.24 rg BT /F1 9 Tf 62 111 Td (IMPLEMENTATION NOTE) Tj ET
+0.88 0.90 0.92 rg BT /F1 10 Tf 62 88 Td (Real RPC endpoints should be verified against official GenLayer docs before production use.) Tj ET
+0.35 0.39 0.45 rg BT /F1 9 Tf 46 34 Td (Submission packet / 02) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2209 >>
+stream
+0.94 0.95 0.91 rg 0 0 612 792 re f
+0.83 0.37 0.29 rg BT /F1 10 Tf 46 742 Td (02 / GENLAYER STUDIO) Tj ET
+0.10 0.14 0.22 rg BT /F1 25 Tf 46 700 Td (A small contract with a real
+intelligent path.) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 655 Td (The included Python contract is designed for a fast Studio review:) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 636 Td (it stores the latest result and can independently inspect a public page.) Tj ET
+0.10 0.14 0.22 rg 46 525 520 82 re f
+0.77 0.90 0.24 rg BT /F1 14 Tf 62 578 Td (contracts/contract_verify.py) Tj ET
+0.94 0.95 0.91 rg BT /F1 11 Tf 62 550 Td (verify_from_page\(address, source_url, network\)) Tj ET
+0.72 0.76 0.82 rg BT /F1 10 Tf 62 530 Td (gl.nondet.web.get + gl.eq_principle.strict_eq) Tj ET
+0.83 0.37 0.29 rg BT /F1 9 Tf 46 470 Td (STUDIO STEPS) Tj ET
+0.77 0.90 0.24 rg 46 427 22 22 re f
+0.10 0.14 0.22 rg BT /F1 9 Tf 53 434 Td (1) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 434 Td (Open studio.genlayer.com and create a new Intelligent Contract.) Tj ET
+0.77 0.90 0.24 rg 46 379 22 22 re f
+0.10 0.14 0.22 rg BT /F1 9 Tf 53 386 Td (2) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 386 Td (Paste contracts/contract_verify.py into the Studio editor.) Tj ET
+0.77 0.90 0.24 rg 46 331 22 22 re f
+0.10 0.14 0.22 rg BT /F1 9 Tf 53 338 Td (3) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 338 Td (Deploy it in the local Studio environment.) Tj ET
+0.77 0.90 0.24 rg 46 283 22 22 re f
+0.10 0.14 0.22 rg BT /F1 9 Tf 53 290 Td (4) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 290 Td (Call verify_from_page with a public explorer or contract page URL.) Tj ET
+0.77 0.90 0.24 rg 46 235 22 22 re f
+0.10 0.14 0.22 rg BT /F1 9 Tf 53 242 Td (5) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 242 Td (Read latest_verification and confirm the stored snapshot.) Tj ET
+0.94 0.84 0.45 rg 46 120 520 72 re f
+0.35 0.28 0.10 rg BT /F1 9 Tf 62 164 Td (JUDGING-SAFE DISCLOSURE) Tj ET
+0.35 0.28 0.10 rg BT /F1 10 Tf 62 141 Td (The browser lifecycle is simulation-only. The Studio contract interaction is separate) Tj ET
+0.35 0.28 0.10 rg BT /F1 10 Tf 62 124 Td (and is the part that demonstrates GenLayer state + validator consensus.) Tj ET
+0.35 0.39 0.45 rg BT /F1 9 Tf 46 34 Td (Submission packet / 03) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2292 >>
+stream
+0.94 0.95 0.91 rg 0 0 612 792 re f
+0.83 0.37 0.29 rg BT /F1 10 Tf 46 742 Td (03 / GITHUB + PORTAL) Tj ET
+0.10 0.14 0.22 rg BT /F1 27 Tf 46 700 Td (Ready to hand over.) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 665 Td (Keep the source files in GitHub. Use this PDF as the reviewer-facing) Tj ET
+0.35 0.39 0.45 rg BT /F1 12 Tf 46 646 Td (overview and checklist, not as a replacement for the runnable repo.) Tj ET
+0.83 0.37 0.29 rg BT /F1 9 Tf 46 590 Td (REPOSITORY CONTENTS) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 556 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 556 Td (README.md - setup, behavior, and Studio instructions) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 525 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 525 Td (contracts/contract_verify.py - Intelligent Contract) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 494 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 494 Td (docs/SUBMISSION.md - portal and GitHub checklist) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 463 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 463 Td (src/App.tsx - wallet, preflight, simulation behavior) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 432 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 11 Tf 84 432 Td (src/index.css - responsive product styling) Tj ET
+0.83 0.37 0.29 rg BT /F1 9 Tf 46 380 Td (FINAL CHECKLIST) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 346 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 10 Tf 84 346 Td (Push the project folder to a public GitHub repository.) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 317 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 10 Tf 84 317 Td (Add the live demo URL to the portal submission.) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 288 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 10 Tf 84 288 Td (Run the contract once in GenLayer Studio.) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 259 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 10 Tf 84 259 Td (Confirm demo transaction copy says no funds and no signature.) Tj ET
+0.83 0.37 0.29 rg BT /F1 11 Tf 56 230 Td ([ ]) Tj ET
+0.22 0.26 0.33 rg BT /F1 10 Tf 84 230 Td (Complete the final portal submission from the project owner's account.) Tj ET
+0.77 0.90 0.24 rg 46 84 520 48 re f
+0.10 0.14 0.22 rg BT /F1 12 Tf 62 104 Td (Source folder is ready in the project artifact.) Tj ET
+0.35 0.39 0.45 rg BT /F1 9 Tf 46 34 Td (Submission packet / 04) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000039 00000 n 
+0000000088 00000 n 
+0000000163 00000 n 
+0000000290 00000 n 
+0000002060 00000 n 
+0000002187 00000 n 
+0000004523 00000 n 
+0000004650 00000 n 
+0000006910 00000 n 
+0000007038 00000 n 
+0000009382 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+9453
+%%EOF
